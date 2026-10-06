@@ -1,0 +1,17 @@
+{
+  "name": "despliegando-js",
+  "version": "1.0.0",
+  "description": "Laboratorio 08 - Despliegue de aplicaciones",
+  "main": "index.js",
+  "author": "Gabrielxd1235",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+},
+  "devDependencies": {
+    "dotenv": "^18.0.6",
+    "nodemon": "^3.1.14"
+  }
+}
